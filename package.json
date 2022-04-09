@@ -31,7 +31,7 @@
     "gulp-watch": "^4.3.11",
     "gulp.spritesmith": "^6.9.0",
     "jshint": "^2.9.6",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.21",
     "pump": "^3.0.0"
   },
